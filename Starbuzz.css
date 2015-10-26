@@ -1,0 +1,66 @@
+/*css*/
+
+body {
+    background-color: #D2B48C;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 2px dotted black;
+    padding: 10px 10px 10px 10px;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #565264;
+}
+
+h2 {
+    color: #565264;
+}
+
+p {
+    color: #565264;
+    font-size: 100%;
+}
+
+a:link {
+    color: #565264;
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 26px;
+}
+
+a:visited {
+    color: #565264;
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 26px;
+}
+
+a:hover {
+    color: #565264;
+    background-color: transparent;
+    text-decoration: underline;
+    font-size: 26px;
+}
+
+a:active {
+    color: #565264;
+    background-color: transparent;
+    text-decoration: underline;
+    font-size: 26px;
+}
+
+table {
+    width: 85%
+}
+
+td, th {
+    height: 40px;
+    vertical-align: bottom;
+}
+
+/*.bottom {
+position: fixed;
+bottom: 0;
+}
+*/
